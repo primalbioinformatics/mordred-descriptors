@@ -27,7 +27,6 @@ Upload a CSV with a `SMILES` column and download a descriptors CSV in one click.
 3. Upload your CSV with **`SMILES`**.
 4. Download **`molecular_descriptors_output.csv`**.
 
-> For large datasets, split into batches to avoid memory spikes.
 
 ## 🧪 Example Input
 `example.csv`:
@@ -52,15 +51,6 @@ pip install -r requirements.txt
 pip install notebook
 jupyter notebook
 ```
-
-## 🌐 GitHub Pages (optional)
-This repo includes a `docs/` folder so you can host a simple landing page.
-
-1. Push the repo with `docs/` to GitHub.
-2. In **Settings → Pages**, set **Source** to `main` and **/docs` folder`.
-3. Save. Your site will be published at `https://<username>.github.io/mordred-descriptors/`.
-
----
 
 <p align="center">
   <img src="assets/logo_badge.svg" width="96" height="96" alt="Primal logo"><br/>
