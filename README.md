@@ -20,12 +20,6 @@
 Compute **2D molecular descriptors** using [Mordred](http://mordred-descriptor.github.io/) and RDKit in **Google Colab**.  
 Upload a CSV with a `SMILES` column and download a descriptors CSV in one click.
 
-## 📦 What’s inside
-- `Mordred_Descriptors.ipynb` — Colab notebook (ready to run).
-- `assets/` — brand banner(s) + logo.
-- `example.csv` — tiny sample you can upload to test.
-- `requirements.txt` — dependencies for local runs.
-- `LICENSE` — MIT License.
 
 ## 🚀 Quick Start (Colab)
 1. Click **Open in Colab** above.
